@@ -53,6 +53,14 @@
 
 ---
 
+**AI workflow**
+
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![ComfyUI](https://img.shields.io/badge/ComfyUI-1F1F1F?style=for-the-badge&logo=data:image/svg+xml;base64,&logoColor=white)
+
+---
+
 ### Languages
 
 ![Belarusian](https://img.shields.io/badge/Belarusian-Native-22272e?style=flat-square)
