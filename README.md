@@ -55,19 +55,19 @@
 
 ### Languages
 
+![Belarusian](https://img.shields.io/badge/Belarusian-Native-22272e?style=flat-square)
 ![Russian](https://img.shields.io/badge/Russian-Native-22272e?style=flat-square)
-![Belarusian](https://img.shields.io/badge/Belarusian-Fluent-22272e?style=flat-square)
 ![English](https://img.shields.io/badge/English-Working-22272e?style=flat-square)
 ![Spanish](https://img.shields.io/badge/Spanish-Learning%20%2F%20daily-22272e?style=flat-square)
-![Polish](https://img.shields.io/badge/Polish-Basic-22272e?style=flat-square)
+![Polish](https://img.shields.io/badge/Polish-Intermediate-22272e?style=flat-square)
 
 ---
 
 ### GitHub stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kvadrakola&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kvadrakola&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top languages" />
+  <img height="165" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=kvadrakola&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats" />
+  <img height="165" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=kvadrakola&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top languages" />
 </div>
 
 ---
