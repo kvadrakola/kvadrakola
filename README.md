@@ -57,8 +57,7 @@
 
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
-![ComfyUI](https://img.shields.io/badge/ComfyUI-1F1F1F?style=for-the-badge&logo=data:image/svg+xml;base64,&logoColor=white)
-
+![ComfyUI](https://img.shields.io/badge/ComfyUI-1F1F1F?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIj48cGF0aCBmaWxsPSIjMTcyZGQ3IiBkPSJNNDA1LjMgNTEySDEwNi43QzQ3LjggNTEyIDAgNDY0LjIgMCA0MDUuM1YxMDYuN0MwIDQ3LjggNDcuOCAwIDEwNi43IDBoMjk4LjZDNDY0LjIgMCA1MTIgNDcuOCA1MTIgMTA2Ljd2Mjk4LjZjMCA1OC45LTQ3LjggMTA2LjctMTA2LjcgMTA2LjciLz48cGF0aCBmaWxsPSIjZjBmZjQxIiBkPSJNMTc0LjggNDE3LjljLTcuNyAwLTEzLjktNi4yLTEzLjktMTMuOVYxMDhjMC03LjcgNi4yLTEzLjkgMTMuOS0xMy45aDQ2LjVjNy43IDAgMTMuOSA2LjIgMTMuOSAxMy45djI4Mi4xYzAgNy43LTYuMiAxMy45LTEzLjkgMTMuOXptMTE2LjEgMGMtNy43IDAtMTMuOS02LjItMTMuOS0xMy45VjEwOGMwLTcuNyA2LjItMTMuOSAxMy45LTEzLjlIMzM4YzcuNyAwIDEzLjkgNi4yIDEzLjkgMTMuOXYyODIuMWMwIDcuNy02LjIgMTMuOS0xMy45IDEzLjl6Ii8+PC9zdmc+&logoColor=white)
 ---
 
 ### Languages
